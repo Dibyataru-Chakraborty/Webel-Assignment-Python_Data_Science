@@ -1,3 +1,4 @@
+#write a python script to print all prime factors of a given number
 import math
 n = int(input("Enter the number: "))
 while n % 2 == 0:
